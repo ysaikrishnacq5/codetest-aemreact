@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="my-aem-project.core-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my-aem-project-master/core/target/my-aem-project.core-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

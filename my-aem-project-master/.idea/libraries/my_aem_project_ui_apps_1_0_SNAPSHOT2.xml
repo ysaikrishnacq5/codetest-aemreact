@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="my-aem-project.ui.apps-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my-aem-project-master/ui.apps/target/my-aem-project.ui.apps-1.0-SNAPSHOT.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
